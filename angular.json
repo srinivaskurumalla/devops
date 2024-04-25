@@ -3,7 +3,7 @@
   "version": 1,
   "newProjectRoot": "projects",
   "projects": {
-    "DevOps_Maturity_Assistant": {
+    "DevOps_Maturity_Assitant": {
       "projectType": "application",
       "schematics": {
         "@schematics/angular:component": {
@@ -82,7 +82,7 @@
         "extract-i18n": {
           "builder": "@angular-devkit/build-angular:extract-i18n",
           "options": {
-            "browserTarget": "DevOps_Maturity_Assistant:build"
+            "browserTarget": "DevOps_Maturity_Assitant:build"
           }
         },
         "test": {
