@@ -71,10 +71,10 @@
           "builder": "@angular-devkit/build-angular:dev-server",
           "configurations": {
             "production": {
-              "browserTarget": "DevOps_Maturity_Assistant:build:production"
+              "browserTarget": "DevOps_Maturity_Assitant:build:production"
             },
             "development": {
-              "browserTarget": "DevOps_Maturity_Assistant:build:development"
+              "browserTarget": "DevOps_Maturity_Assitant:build:development"
             }
           },
           "defaultConfiguration": "development"
